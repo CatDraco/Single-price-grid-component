@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.\"Screenshot 2021-11-23 154633.png")
+![].\"Screenshot 2021-11-23 154633.png"
 
 ### Links
 
