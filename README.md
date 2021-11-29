@@ -28,12 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](.\images\"Screenshot 2021-11-23 154633.png")
+![](.\"Screenshot 2021-11-23 154633.png")
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://catdraco.github.io/Single-price-grid-component/
 
 ## My process
 
