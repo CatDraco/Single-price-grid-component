@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]\Screenshot_2021-11-23_154633.jpg
+![Screenshot](\Screenshot_2021-11-23_154633.jpg)
 
 ### Links
 
