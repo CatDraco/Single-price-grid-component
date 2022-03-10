@@ -15,8 +15,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](\Screenshot_2021-11-23_154633.jpg)
+![](.\images\Screenshot.jpg)
 
 ### Links
 
-- Live Site URL: https://catdraco.github.io/Single-price-grid-component/
+- Solution URL: https://github.com/CatDraco/Single-price-grid-component.git
 
 ## My process
 
